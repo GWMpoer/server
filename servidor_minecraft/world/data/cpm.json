@@ -4,7 +4,35 @@
   "__COMMENT3": "with the following name: cpm-server-default.json",
   "player_scaling": {
     "a6ad6532-c81f-3d8b-b1df-766e63f53044": {},
+    "4886246a-15c6-370a-8c89-e2094b31e461": {},
     "3544a01b-1865-33b2-a8ea-3d5e2f08943a": {}
+  },
+  "player_scaling_settings": {},
+  "scaling_settings": {
+    "projectile_dmg": {},
+    "mining_speed": {},
+    "motion": {},
+    "third_person": {},
+    "hitbox_width": {},
+    "eye_height": {},
+    "mob_visibility": {},
+    "flight_speed": {},
+    "knockback_resist": {},
+    "reach": {},
+    "health": {},
+    "jump_height": {},
+    "attack_speed": {},
+    "explosion_dmg": {},
+    "view_bobbing": {},
+    "defense": {},
+    "attack_knockback": {},
+    "step_height": {},
+    "width": {},
+    "hitbox_height": {},
+    "attack_dmg": {},
+    "fall_damage": {},
+    "entity": {},
+    "height": {}
   },
   "skins": {}
 }

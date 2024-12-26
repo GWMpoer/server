@@ -840,3 +840,81 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [26Dec2024 04:28:17.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elerasantax left the game
 [26Dec2024 04:28:22.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ddixo was slain by papita1701
 [26Dec2024 04:29:01.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ddixo was slain by Dread Hound
+[26Dec2024 04:31:23.656] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [glitchcore:config_sync,toughasnails:main] rejected their client side version number
+[26Dec2024 04:31:23.657] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[26Dec2024 04:31:23.677] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5b2b7e75[id=<null>,name=Pedro4,properties={},legacy=false] (/127.121.241.127:41645) lost connection: Connection closed - mismatched mod channel list
+[26Dec2024 04:31:30.535] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [glitchcore:config_sync,toughasnails:main] rejected their client side version number
+[26Dec2024 04:31:30.535] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[26Dec2024 04:31:30.566] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@65483a49[id=<null>,name=Pedro4,properties={},legacy=false] (/127.121.241.127:50437) lost connection: Connection closed - mismatched mod channel list
+[26Dec2024 04:31:40.830] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [glitchcore:config_sync,toughasnails:main] rejected their client side version number
+[26Dec2024 04:31:40.831] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[26Dec2024 04:31:40.862] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2d479819[id=<null>,name=Pedro4,properties={},legacy=false] (/127.121.241.127:52189) lost connection: Connection closed - mismatched mod channel list
+[26Dec2024 04:31:53.725] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elerasantax[/127.104.64.143:46343] logged in with entity id 5347 at (132.5, 72.0, 24.5)
+[26Dec2024 04:31:53.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elerasantax joined the game
+[26Dec2024 04:31:53.851] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: elerasantax
+[26Dec2024 04:32:13.613] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@246ea1d0[id=<null>,name=Pedro4,properties={},legacy=false] (/127.121.241.127:43855) lost connection: Disconnected
+[26Dec2024 04:32:30.229] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [glitchcore:config_sync,toughasnails:main] rejected their client side version number
+[26Dec2024 04:32:30.230] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[26Dec2024 04:32:30.255] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2cec63c7[id=<null>,name=Pedro4,properties={},legacy=false] (/127.121.241.127:43135) lost connection: Connection closed - mismatched mod channel list
+[26Dec2024 04:32:49.478] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@281cc51d[id=<null>,name=Pedro4,properties={},legacy=false] (/127.121.241.127:35665) lost connection: Disconnected
+[26Dec2024 04:32:50.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: papita1701 lost connection: Disconnected
+[26Dec2024 04:32:50.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papita1701 left the game
+[26Dec2024 04:32:52.380] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [glitchcore:config_sync,toughasnails:main] rejected their client side version number
+[26Dec2024 04:32:52.381] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[26Dec2024 04:32:52.402] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@51947bd4[id=<null>,name=Pedro4,properties={},legacy=false] (/127.121.241.127:59501) lost connection: Connection closed - mismatched mod channel list
+[26Dec2024 04:32:56.025] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [glitchcore:config_sync,toughasnails:main] rejected their client side version number
+[26Dec2024 04:32:56.025] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[26Dec2024 04:32:56.052] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6e4e50bd[id=<null>,name=Pedro4,properties={},legacy=false] (/127.121.241.127:41805) lost connection: Connection closed - mismatched mod channel list
+[26Dec2024 04:32:59.234] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [glitchcore:config_sync,toughasnails:main] rejected their client side version number
+[26Dec2024 04:32:59.234] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[26Dec2024 04:32:59.253] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@74077640[id=<null>,name=Pedro4,properties={},legacy=false] (/127.121.241.127:32889) lost connection: Connection closed - mismatched mod channel list
+[26Dec2024 04:33:07.727] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [glitchcore:config_sync,toughasnails:main] rejected their client side version number
+[26Dec2024 04:33:07.727] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[26Dec2024 04:33:07.754] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15b3c3b9[id=<null>,name=Pedro4,properties={},legacy=false] (/127.121.241.127:35551) lost connection: Connection closed - mismatched mod channel list
+[26Dec2024 04:33:15.327] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [glitchcore:config_sync,toughasnails:main] rejected their client side version number
+[26Dec2024 04:33:15.327] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[26Dec2024 04:33:15.330] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7c58dab7[id=<null>,name=Pedro4,properties={},legacy=false] (/127.121.241.127:55669) lost connection: Connection closed - mismatched mod channel list
+[26Dec2024 04:33:32.861] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fubuki83[/127.251.140.77:46245] logged in with entity id 5619 at (138.5, 70.0, 38.5)
+[26Dec2024 04:33:32.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fubuki83 joined the game
+[26Dec2024 04:33:32.933] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: fubuki83
+[26Dec2024 04:33:32.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fubuki83 has made the advancement [Ice and Fire]
+[26Dec2024 04:33:32.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fubuki83 has completed the challenge [The Undead]
+[26Dec2024 04:33:38.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ddixo was slain by Skeleton
+[26Dec2024 04:33:41.404] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ddixo lost connection: Disconnected
+[26Dec2024 04:33:41.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ddixo left the game
+[26Dec2024 04:34:01.753] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elerasantax lost connection: Disconnected
+[26Dec2024 04:34:01.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elerasantax left the game
+[26Dec2024 04:34:27.387] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: papita1701[/127.254.68.93:35057] logged in with entity id 5902 at (121.49438277815693, 64.0, 89.30000001192093)
+[26Dec2024 04:34:27.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papita1701 joined the game
+[26Dec2024 04:34:27.654] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: papita1701
+[26Dec2024 04:34:29.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ddixo[/127.86.124.244:50587] logged in with entity id 5938 at (130.6166026276464, 144.5, 73.81544616244821)
+[26Dec2024 04:34:29.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ddixo joined the game
+[26Dec2024 04:34:29.604] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: ddixo
+[26Dec2024 04:34:29.824] [Server thread/WARN] [de.teamlapen.lib.network.ClientboundUpdateEntityPacket/]: There is nothing to update for entity ServerPlayer['ddixo'/5938, l='ServerLevel[world]', x=130.62, y=144.50, z=73.82, removed=KILLED]
+[26Dec2024 04:35:23.221] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elerasantax[/127.104.64.143:43857] logged in with entity id 6312 at (132.5, 72.0, 24.5)
+[26Dec2024 04:35:23.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elerasantax joined the game
+[26Dec2024 04:35:23.328] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: elerasantax
+[26Dec2024 04:35:41.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elerasantax lost connection: Disconnected
+[26Dec2024 04:35:41.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elerasantax left the game
+[26Dec2024 04:35:48.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fubuki83 has made the advancement [Stone Age]
+[26Dec2024 04:36:14.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fubuki83 has made the advancement [Getting an Upgrade]
+[26Dec2024 04:36:17.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papita1701 drowned whilst trying to escape ddixo
+[26Dec2024 04:36:33.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ddixo has made the advancement [Getting an Upgrade]
+[26Dec2024 04:36:43.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papita1701 was slain by ddixo
+[26Dec2024 04:36:48.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ddixo has made the advancement [Isn't It Iron Pick]
+[26Dec2024 04:37:01.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [papita1701: Set own game mode to Creative Mode]
+[26Dec2024 04:37:21.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ddixo was slain by papita1701
+[26Dec2024 04:37:37.303] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fubuki83 lost connection: Disconnected
+[26Dec2024 04:37:37.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fubuki83 left the game
+[26Dec2024 04:37:37.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fubuki83 was slain by papita1701
+[26Dec2024 04:37:41.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ddixo was slain by papita1701
+[26Dec2024 04:38:06.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [papita1701: Set own game mode to Survival Mode]
+[26Dec2024 04:38:16.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papita1701 was slain by ddixo
+[26Dec2024 04:38:29.172] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6ca7a5dc[id=<null>,name=fubuki83,properties={},legacy=false] (/127.251.140.77:60283) lost connection: Disconnected
+[26Dec2024 04:39:03.556] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@745e22f4[id=<null>,name=fubuki83,properties={},legacy=false] (/127.251.140.77:46469) lost connection: Disconnected
+[26Dec2024 04:39:39.956] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3f34a277[id=<null>,name=fubuki83,properties={},legacy=false] (/127.251.140.77:40927) lost connection: Disconnected
+[26Dec2024 04:40:03.323] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elerasantax[/127.104.64.143:52059] logged in with entity id 7400 at (132.5, 72.0, 24.5)
+[26Dec2024 04:40:03.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elerasantax joined the game
+[26Dec2024 04:40:03.427] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: elerasantax
+[26Dec2024 04:40:17.406] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elerasantax lost connection: Disconnected
+[26Dec2024 04:40:17.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elerasantax left the game

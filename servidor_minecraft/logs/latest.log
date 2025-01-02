@@ -1000,3 +1000,60 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft_121_update:deleted_
 [02Jan2025 05:01:49.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fubuki83 has made the advancement [Getting an Upgrade]
 [02Jan2025 05:02:15.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
 [02Jan2025 05:02:35.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[02Jan2025 05:03:27.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[02Jan2025 05:03:45.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3286ms or 65 ticks behind
+[02Jan2025 05:04:07.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6675ms or 133 ticks behind
+[02Jan2025 05:04:33.416] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11233ms or 224 ticks behind
+[02Jan2025 05:04:55.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7458ms or 149 ticks behind
+[02Jan2025 05:05:13.202] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[02Jan2025 05:06:08.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papita1701 was shot by Skeleton
+[02Jan2025 05:06:08.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papita1701 has made the advancement [Your First Grave]
+[02Jan2025 05:06:08.792] [Server thread/INFO] [tombstone/]: The player papita1701 has successfully been saved
+[02Jan2025 05:06:16.068] [Server thread/INFO] [do_a_barrel_roll/]: Client of papita1701 accepted server config.
+[02Jan2025 05:09:09.073] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[02Jan2025 05:09:09.567] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/illagers
+[02Jan2025 05:09:09.608] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[02Jan2025 05:09:09.985] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[02Jan2025 05:09:10.297] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellarity:stronghold/storage/piles
+[02Jan2025 05:09:10.298] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellarity:stronghold/storage/piles
+[02Jan2025 05:09:10.346] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[02Jan2025 05:09:10.349] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[02Jan2025 05:09:10.614] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[02Jan2025 05:09:10.761] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[02Jan2025 05:09:11.019] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[02Jan2025 05:09:11.638] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[02Jan2025 05:09:11.843] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[02Jan2025 05:09:11.958] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[02Jan2025 05:09:12.388] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[02Jan2025 05:09:13.142] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/illagers
+[02Jan2025 05:09:13.207] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[02Jan2025 05:09:14.090] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[02Jan2025 05:09:14.736] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[02Jan2025 05:09:14.920] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[02Jan2025 05:09:15.525] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[02Jan2025 05:09:15.880] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: fokastudio:end/stronghold/illagers
+[02Jan2025 05:09:15.938] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/illagers
+[02Jan2025 05:09:16.007] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: stellaris:stronghold/corridors_no_stairs
+[02Jan2025 05:09:16.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[02Jan2025 05:09:43.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: papita1701 has made the advancement [Monster Hunter]
+[02Jan2025 05:10:14.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fubuki83 has made the advancement [Sweet Dreams]
+[02Jan2025 05:10:19.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fubuki83 was shot by Skeleton
+[02Jan2025 05:10:19.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fubuki83 has made the advancement [Your First Grave]
+[02Jan2025 05:10:19.339] [Server thread/INFO] [tombstone/]: The player fubuki83 has successfully been saved
+[02Jan2025 05:10:20.949] [Server thread/INFO] [do_a_barrel_roll/]: Client of fubuki83 accepted server config.
+[02Jan2025 05:11:31.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[02Jan2025 05:11:49.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fubuki83 has made the advancement [Monster Hunter]
+[02Jan2025 05:11:49.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fubuki83 has made the advancement [A Strange Grave Dust]
+[02Jan2025 05:12:50.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fubuki83 moved too quickly! -1.6928494298578016,1.499003359732523,-10.038602083411092
+[02Jan2025 05:13:26.006] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2123ms or 42 ticks behind
+[02Jan2025 05:13:32.698] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: fubuki83 lost connection: Disconnected
+[02Jan2025 05:13:32.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fubuki83 left the game
+[02Jan2025 05:13:51.309] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: fubuki83[/127.251.140.77:58317] logged in with entity id 8880 at (433.48653015100456, 11.0, 837.5186335885078)
+[02Jan2025 05:13:51.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fubuki83 joined the game
+[02Jan2025 05:13:53.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[02Jan2025 05:14:00.288] [Server thread/INFO] [do_a_barrel_roll/]: Client of fubuki83 accepted server config.
+[02Jan2025 05:14:20.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fubuki83 was slain by Zombie
+[02Jan2025 05:14:20.582] [Server thread/INFO] [tombstone/]: The player fubuki83 has successfully been saved
+[02Jan2025 05:14:21.967] [Server thread/INFO] [do_a_barrel_roll/]: Client of fubuki83 accepted server config.
+[02Jan2025 05:14:30.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fubuki83 has made the advancement [Knowledge of Death]
+[02Jan2025 05:14:30.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fubuki83 has reached the goal [Here They Come]
